@@ -1,5 +1,7 @@
 # Website-Parsing-Regression-for-Price-Prediction
-Website Parsing + Regression for Price Prediction for Artificial Intelligence in Marketing class, St. Lawrence college
+Website Parsing + Regression for Price Prediction 
+for Artificial Intelligence in Marketing class, St. Lawrence college
+Business analytics
 
 The project instructions:
 - Create a dataset by parsing the webpage used in class.  This is the base URL (https://admn5015-340805.uc.r.appspot.com/2019-01-01.html).  
